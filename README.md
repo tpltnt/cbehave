@@ -108,3 +108,7 @@ a solution for this is execute "libtoolize -f" before "configure".
 User Guide
 -------------
 For more information, please open and read the project wiki. cbehave user guide is ready for you.
+
+ToDo
+----
+- proper autoconf integration (not symlinks)
